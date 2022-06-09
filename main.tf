@@ -1,7 +1,7 @@
 provider "aws" {
    region = "us-east-1"
-   access_key = "AKIAX5YGRPOABTYSO6UJ"
-   secret_key = "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"
+   access_key = "AKIAX5YGRPOAGZDOL6GS"
+   secret_key = "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"
 }
 variable "ami_my" {
     default = "ami-0c02fb55956c7d316"
